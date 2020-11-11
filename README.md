@@ -1,2 +1,6 @@
 # PuzzleCutTool
 拼图裁剪工具 Imagemagick macos
+把大图直接裁剪成方块小图有点难看，这个脚本可以直接裁剪大图成
+随机凹凸的小图。脚本中变量可以自己跳转，col为列row为行，circle
+为凹凸的半径。
+脚本中Generate可以剪切大图成随机凹凸的小图，结果保存在output文件夹中

@@ -353,4 +353,4 @@ function Generate {
 	rm -rf "${rect_dir}" "${circle_dir}" "${png_sub_dir}" "${png_add_dir}"
 }
 
-Main 1.jpg
+Generate 1.jpg
